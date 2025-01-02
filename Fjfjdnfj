@@ -5,4 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/Hshddhdh.git
 git push -u origin main
-warp://p1@188.114.96.105:998/?ifp=75-85&ifps=85-95&ifpd=95-105&ifpm=m4#j1&&detour=warp://p2@188.114.96.105:998/?ifp=75-85&ifps=85-95&ifpd=95-105&ifpm=m4#j2 
+warp://188.114.96.105:998?ifp=75-85&ifps=85-95&ifpd=95-105&ifpm=m4#j1&&detour=warp://188.114.96.105:998?ifp=75-85&ifps=85-95&ifpd=95-105&ifpm=m4#j2 
